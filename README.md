@@ -3,14 +3,14 @@
 <h1 align="center">Hi 👋, I'm Abdurauf</h1>
 <h3 align="center">A passionate and skilled frontend engineer</h3>
 
-- 👨‍💻 Visit my website [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
+- 👨‍💻 Visit my website [https://abdurauf.dev/](https://abdurauf.dev/)
 
 - 📫 How to reach me [Telegram](https://t.me/abduraufss), [Instagram](https://www.instagram.com/abdurauf_a_/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/aabdurauf004" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabdurauf004" height="30" width="40" />
+    <a href="https://x.com/just__abdu" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just__abdu" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/abdurauf-ashurov-656415213/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurauf-ashurov-656415213/" height="30" width="40" />
