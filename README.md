@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./style.css">
 
 <h1 align="center">Hi 👋, I'm Abdurauf</h1>
-<h3 align="center">A passionate and skilled frontend engineer</h3>
+<h3 align="center">A passionate and skilled DevOps Engineer with frontend knowledge</h3>
 
 - 👨‍💻 Visit my website [https://portfolio-aabdurauf.netlify.app/](https://portfolio-aabdurauf.netlify.app/)
 
